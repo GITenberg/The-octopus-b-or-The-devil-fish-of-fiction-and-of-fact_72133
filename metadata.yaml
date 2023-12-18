@@ -1,0 +1,35 @@
+_repo: The-octopus-b-or-The-devil-fish-of-fiction-and-of-fact_72133
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lee, Henry
+    birthdate: 1826
+    deathdate: 1888
+    gutenberg_agent_id: '44103'
+    url: http://www.gutenberg.org/2009/agents/44103
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Lee_(naturalist)
+description: ''
+gutenberg_issued: '2023-11-15'
+identifiers:
+  gutenberg: '72133'
+language: en
+pgterms:marc904: https://archive.org/details/octopusordevilfi00leeh_0
+pgterms:marc905: 20220727042007lee
+pgterms:marc906: '1875'
+pgterms:marc907: GB
+production_note: deaurider, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bChapman and Hall, $c1875.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cephalopoda'
+- !lcsh 'Octopuses'
+- !lcsh 'Cuttlefish'
+- !lcsh 'Squids'
+- !lcc 'QL'
+- GITenberg
+title: 'The octopus : $b or, The "devil-fish" of fiction and of fact'
+url: http://www.gutenberg.org/ebooks/72133
