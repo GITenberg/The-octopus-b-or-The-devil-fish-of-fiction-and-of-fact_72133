@@ -1,5 +1,8 @@
 _repo: The-octopus-b-or-The-devil-fish-of-fiction-and-of-fact_72133
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72133-h/images/cover.jpg
 creator:
   author:
     agent_name: Lee, Henry
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44103
     wikipedia: https://en.wikipedia.org/wiki/Henry_Lee_(naturalist)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72133#The-octopus-b-or-The-devil-fish-of-fiction-and-of-fact
 gutenberg_issued: '2023-11-15'
 identifiers:
   gutenberg: '72133'
